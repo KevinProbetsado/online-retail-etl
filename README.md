@@ -187,12 +187,7 @@ notebook
 ## 👤 Author
 
 **Kevin Probetsado**
-📧 your.email@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 kevin.c.probetsado@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/kevin-c-probetsado-aa9a64287/)
 🐙 [GitHub](https://github.com/KevinProbetsado)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
