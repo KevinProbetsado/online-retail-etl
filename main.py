@@ -20,5 +20,5 @@ load_to_postgres(
     df_clean,
     db_name='online_retail',
     user='postgres',
-    password='Kevin#1234'  # ← put your pgAdmin password
+    password=''  # ← put your pgAdmin password
 )
